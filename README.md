@@ -1,4 +1,4 @@
-# Simplified Blackjack - Procedural
+re# Simplified Blackjack - Procedural
 
 ## Learning Goals
 
